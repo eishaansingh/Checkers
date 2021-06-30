@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Checkers</string>
+    <string name="hello">Hello World, CheckerActivity!</string>
+</resources>
